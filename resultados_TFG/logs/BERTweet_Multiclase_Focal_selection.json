@@ -1,0 +1,8 @@
+{
+  "criterion": "PR-AUC-Macro on DEV",
+  "best_epoch": 4,
+  "best_dev_pr_auc_macro": 0.6259722471496699,
+  "gamma": 2.0,
+  "learning_rate": 2e-05,
+  "epochs": 4
+}

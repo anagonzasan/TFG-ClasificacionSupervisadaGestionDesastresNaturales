@@ -1,0 +1,6 @@
+{
+  "w_bertweet": 0.4,
+  "w_svm": 0.12,
+  "w_bilstm": 0.48,
+  "PR_AUC_macro_dev": 0.6489877441421851
+}

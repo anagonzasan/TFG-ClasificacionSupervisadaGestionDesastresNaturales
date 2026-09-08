@@ -1,0 +1,2 @@
+model,w_bertweet,w_svm,w_bilstm,PR_AUC_macro_dev,F2_macro,PR_AUC_macro,accuracy
+Ensemble,0.4,0.12,0.48,0.6489877441421851,0.5541906434328642,0.6086863576608101,0.6786389413988658
